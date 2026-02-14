@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "koi",
+  "base_artist": "ammo",
+  "createdAt": "2026-02-14T02:54:03.830456Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Koi",
+      "artist": "Le1f",
+      "has_synced": true,
+      "path": "select/01_Koi_Le1f.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Koi to Byounetsu",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/02_Koi_to_Byounetsu_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Aaj Ki Raat Koi Aane Ko Hai",
+      "artist": "Asha Bhosle",
+      "has_synced": true,
+      "path": "select/03_Aaj_Ki_Raat_Koi_Aane_Ko_Hai_Asha_Bhosle.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dil Har Koi",
+      "artist": "Alka Yagnik & Kumar Sanu",
+      "has_synced": false,
+      "path": "select/04_Dil_Har_Koi_Alka_Yagnik_&_Kumar_Sanu.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Jab Koi Baat - Recreated",
+      "artist": "Atif Aslam feat. Shirley Setia & Dj Chetas",
+      "has_synced": true,
+      "path": "select/05_Jab_Koi_Baat_-_Recreated_Atif_Aslam_feat._Shirley_Setia_&_Dj_Chetas.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jab Koi Baat - DJ Chetas",
+      "artist": "Atif Aslam, Shirley Setia",
+      "has_synced": true,
+      "path": "select/06_Jab_Koi_Baat_-_DJ_Chetas_Atif_Aslam,_Shirley_Setia.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jab Koi Baat - Recreated",
+      "artist": "Atif Aslam, Shirley Setia, Dj Chetas",
+      "has_synced": true,
+      "path": "select/07_Jab_Koi_Baat_-_Recreated_Atif_Aslam,_Shirley_Setia,_Dj_Chetas.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Koi Ladki Hai",
+      "artist": "Lata Mangeshkar feat. Udit Narayan",
+      "has_synced": true,
+      "path": "select/08_Koi_Ladki_Hai_Lata_Mangeshkar_feat._Udit_Narayan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Koi Ladki Hai",
+      "artist": "Lata Mangeshkar & Udit Narayan",
+      "has_synced": true,
+      "path": "select/09_Koi_Ladki_Hai_Lata_Mangeshkar_&_Udit_Narayan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Koi Na Koi Chahiye",
+      "artist": "Vinod Rathod",
+      "has_synced": true,
+      "path": "select/10_Koi_Na_Koi_Chahiye_Vinod_Rathod.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Koi Roko Na",
+      "artist": "Kishore Kumar",
+      "has_synced": true,
+      "path": "select/11_Koi_Roko_Na_Kishore_Kumar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Koi Roko Na (The Unwind Mix)",
+      "artist": "Abhijeet Sawant",
+      "has_synced": true,
+      "path": "select/12_Koi_Roko_Na_(The_Unwind_Mix)_Abhijeet_Sawant.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Koi Yeh Kaise Bataye",
+      "artist": "Jagjit Singh",
+      "has_synced": true,
+      "path": "select/13_Koi_Yeh_Kaise_Bataye_Jagjit_Singh.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "koi",
+      "artist": "ammo",
+      "has_synced": false,
+      "path": "select/pl_01_koi_ammo.txt"
+    }
+  ]
+}
